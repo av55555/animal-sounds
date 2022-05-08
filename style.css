@@ -1,0 +1,32 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(217, 183, 240);
+}
+.d1{
+    background-color: rgb(222, 146, 239);
+    color: black;
+}
+.d1 p{
+    font-family: 'Oswald', sans-serif;
+    color: beige;
+    letter-spacing: 2px;
+    font-size: 12px; font-weight: bold;
+}
+.d2 button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    width: 135px;
+    margin-top: 30px;
+}
+.d3{
+    position: fixed;
+    bottom: 0;
+    color: rgb(0, 0, 0);
+    background-color: rgb(180, 144, 214);
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
